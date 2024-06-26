@@ -8,7 +8,6 @@ tags:
   - category2
 ---
 
-<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script"></script> <script> MathJax = { tex: { inlineMath: [['$', '$'],['\$', '\$']] } }; </script>
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
 

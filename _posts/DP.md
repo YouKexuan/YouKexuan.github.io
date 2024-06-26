@@ -1,7 +1,7 @@
 ---
 title: 'DP'
 date: 2024-06-27
-permalink: /posts/2024/06/blog-post-1/
+permalink: /posts/2024/06/DP/
 tags:
   - Differential Privacy
   - learn

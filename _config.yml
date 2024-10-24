@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "You's homepage / Record"
+title                    : "Yang's homepage"
 title_separator          : "-"
-name                     : &name "You"
+name                     : &name "Yang"
 description              : &description ":D"
 url                      : "https://YouKexuan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "YouKexuan/YouKexuan.github.io"
 author:
   # Biographic information
   avatar           : "bouenkyou.jpg"
-  name             : "You"
+  name             : "Yang"
   pronouns         : # example: "she/her"  
   bio              : "Record"
   location         : "Earth"
